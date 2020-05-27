@@ -1,0 +1,4 @@
+uint8 obstacle_type
+uint8 obstacle_status
+uint16 obstacle_age
+float32 cofidence_measure

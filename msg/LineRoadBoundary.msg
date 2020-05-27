@@ -1,0 +1,12 @@
+std_msgs/Header header
+  uint32 seq
+  time stamp
+  string frame_id
+uint8 position
+uint8 type
+float64 position_parameter_c0
+float64 heading_angle_parameter_c1
+float64 curvature_parameter_c2  
+float64 curvature_derivative_parameter_c3
+uint16 age
+float32 cofidence_measure
