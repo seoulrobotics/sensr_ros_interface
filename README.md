@@ -1,4 +1,4 @@
-# SENSR ROS INTERFACE
+# SENSR M ROS INTERFACE
 
 ## Input message
 
