@@ -14,8 +14,9 @@ add_message_files(
   FILES
   LaneList.msg
   LineRoadBoundary.msg
-  ObjectKinematics.msg
   ObjectList.msg
+  Object.msg
+  ObjectKinematics.msg
   ObjectProperties.msg
 )
 
