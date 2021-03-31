@@ -10,7 +10,7 @@ uint8 STATUS_DYNAMIC=0
 uint8 STATUS_STATIC=1
 
 int32 id
-uint8 type
 uint8 status
 uint16 age
-float32 cofidence
+uint8 type
+float32 confidence
