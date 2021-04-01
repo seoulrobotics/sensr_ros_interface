@@ -14,10 +14,12 @@ add_message_files(
   FILES
   ObjectList.msg
   Object.msg
-  ObjectKinematics.msg
   ObjectProperties.msg
+  ObjectKinematics.msg
   RoadLineList.msg
   RoadLine.msg
+  RoadLineProperties.msg
+  RoadLineCurve.msg
 )
 
 generate_messages(
