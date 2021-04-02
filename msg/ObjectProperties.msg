@@ -1,4 +1,16 @@
-uint8 obstacle_type # 0: 4 Wheeler large 1: 4 Wheeler small 2: 2 Wheeler 3: Pedestrian 4: Unknown
-uint8 obstacle_status # 0: Dynamic 1: Static
-uint16 obstacle_age # please specify time unit
-float32 cofidence_measure
+# Status enum
+uint8 STATUS_DYNAMIC=0
+uint8 STATUS_STATIC=1
+
+# Type enum
+uint8 TYPE_CAR_LARGE=0
+uint8 TYPE_CAR_SMALL=1
+uint8 TYPE_CYCLIST=2
+uint8 TYPE_PEDESTRIAN=3
+uint8 TYPE_UNKNOWN=4
+
+int32 id
+uint8 status
+uint16 age
+uint8 type
+float32 classification_confidence

@@ -12,11 +12,14 @@ find_package(catkin REQUIRED COMPONENTS message_generation)
 
 add_message_files(
   FILES
-  LaneList.msg
-  LineRoadBoundary.msg
-  ObjectKinematics.msg
   ObjectList.msg
+  Object.msg
   ObjectProperties.msg
+  ObjectKinematics.msg
+  RoadLineList.msg
+  RoadLine.msg
+  RoadLineProperties.msg
+  RoadLineCurve.msg
 )
 
 generate_messages(
