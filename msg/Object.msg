@@ -1,2 +1,3 @@
 sensr_msgs/ObjectProperties properties
 sensr_msgs/ObjectKinematics kinematics
+sensr_msgs/ObjectPrediction prediction
