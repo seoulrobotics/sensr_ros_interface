@@ -17,6 +17,8 @@ add_message_files(
   ObjectProperties.msg
   ObjectKinematics.msg
   ObjectPrediction.msg
+  ObjectPolygon.msg
+  ObjectPolygonVertex.msg
   MostLikelyTrajectory.msg
   FutureState.msg
   RoadLineList.msg
