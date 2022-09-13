@@ -1,4 +1,0 @@
-float64 position_parameter_c0
-float64 heading_angle_parameter_c1
-float64 curvature_parameter_c2  
-float64 curvature_derivative_parameter_c3

@@ -1,1 +1,1 @@
-sensr_msgs/RoadPolylinePoint[] points
+geometry_msgs/Vector3[] points
