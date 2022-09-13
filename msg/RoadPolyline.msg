@@ -1,2 +1,2 @@
 sensr_msgs/RoadLineProperties properties
-sensr_msgs/RosRoadLinePoint[] points
+sensr_msgs/RoadPolylinePoint[] points
