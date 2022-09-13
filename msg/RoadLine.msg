@@ -1,2 +1,0 @@
-sensr_msgs/RoadLineProperties properties
-sensr_msgs/RoadLineCurve curve
