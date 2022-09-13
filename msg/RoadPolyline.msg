@@ -1,2 +1,1 @@
-sensr_msgs/RoadLineProperties properties
 sensr_msgs/RoadPolylinePoint[] points
