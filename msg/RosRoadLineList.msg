@@ -5,3 +5,5 @@ sensr_msgs/RosRoadLine[] curbs
 float64 resolution
 float64 max_x
 float64 max_y
+float64 min_x
+float64 min_y
