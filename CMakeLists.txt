@@ -25,6 +25,9 @@ add_message_files(
   RoadLine.msg
   RoadLineProperties.msg
   RoadLineCurve.msg
+  RosRoadLineList.msg,
+  RosRoadLine.msg,
+  RosRoadLinePoint.msg
 )
 
 generate_messages(
