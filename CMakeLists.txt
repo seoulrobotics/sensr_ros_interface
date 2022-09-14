@@ -21,8 +21,8 @@ add_message_files(
   ObjectPolygonVertex.msg
   MostLikelyTrajectory.msg
   FutureState.msg
-  RoadPolylineList.msg,
-  RoadPolyline.msg,
+  RoadPolylineList.msg
+  RoadPolyline.msg
 )
 
 generate_messages(
